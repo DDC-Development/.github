@@ -13,3 +13,9 @@ Not a lot has been added yet, but watch this space.
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+
+## Добро пожаловать в ДДК Dev.
+
+
+ДДК Dev - российская компания-разработчик с отделениями в области настольных приложений, Android-приложений, серверных приложений и многого другого. Пока добавлено не так много, но следите за новостями.
