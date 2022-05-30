@@ -1,2 +1,1 @@
-# .github
-GitHub Configuration Files
+# DDC Dev
